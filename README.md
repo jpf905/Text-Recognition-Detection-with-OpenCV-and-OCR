@@ -1,0 +1,1 @@
+# Text-Recognition-Detection-with-OpenCV-and-OCR
