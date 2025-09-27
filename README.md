@@ -2,8 +2,8 @@
 ### **Description**
 I am using **OpenCV** for image preprocessing and **OCR** techniques to demonstrate text detection and recognition from images.
 
-<img width="664" height="211" alt="Quote" src="https://github.com/user-attachments/assets/019639ac-0c65-4b48-b037-344fcd4115b9" />
 
+<img width="790" height="290" alt="Text" src="https://github.com/user-attachments/assets/3cb7f0d0-553f-4c2f-bed9-c6708ac22a14" />
 
 
 ### **Background**
